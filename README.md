@@ -17,15 +17,6 @@ The scraper was built to streamline the process of gathering race director conta
 - pandas
 - webdriver-manager
 
-## 📁 Project Structure
-race_scraper/
-├── race_scraper_runsignup.ipynb
-├── requirements.txt
-├── data/
-│ └── race_listings_RunSignUp.csv
-└── README.md
-
-
 ## 🚀 How to Run
 1. Clone the repo
 2. Install dependencies:  
@@ -42,5 +33,5 @@ A sample of the resulting data is included in `/data/race_listings_RunSignUp.csv
 - Schedule recurring scraping runs
 
 ## 📬 Contact
-Created by [Your Name]. Feel free to reach out on [LinkedIn](https://linkedin.com/in/your-link) or by email.
+Created by Parker Pape. Feel free to reach out on [LinkedIn](https://linkedin.com/in/parker-pape) or by email.
 
